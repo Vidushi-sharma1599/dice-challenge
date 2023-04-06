@@ -4,7 +4,7 @@
 	var player2 = "Player 2";
 
 	// Function to change the player name
-	function editNames() {
+	function changeNames() {
 		player1 = prompt("Change Player1 name");
 		player2 = prompt("Change player2 name");
 
